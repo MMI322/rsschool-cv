@@ -12,7 +12,7 @@
    - Photoshop, Illustrator
    - VS Code
 
-# 5. 
+# 5. Code example:
 ```
    function isAnagram(test, original) {
      if ((test.toLowerCase().split('').sort().join('')) == (original.toLowerCase().split('').sort().join(''))) {
