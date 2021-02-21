@@ -5,5 +5,19 @@ body {
 .container {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     margin: 0 20% ;
+   
+}
+
+img {
+    width: 300px;
+}
+
+h3 {
+    border-bottom: solid 2px black;
+}
+
+header, footer {
+    margin-left: 20%;
 }
